@@ -1,0 +1,22 @@
+
+.home-page{
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.view-analytics-button{
+    height: 10mm;
+    width: 50mm;
+    border-style: none;
+    border-radius: 5px;
+
+    font-weight: 600;
+    cursor: pointer;
+    color: brown;
+    background-color:blanchedalmond;
+}
